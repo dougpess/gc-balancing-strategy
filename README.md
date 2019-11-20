@@ -75,6 +75,7 @@ Buffs em geral (não dano)
 =========================
 	Elesis[1]: MP1 (Corte Incandecente nv1) mais stun, inimigos não mais podem escapar
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
+	Elesis: Added Air Stun for the first 2 hits of Z Combo.
 	Elesis[2]: Stun aéreo para 2MP.
 	Elesis[2]: Adicionado Air Stun para os primeiros 2 hits de Z Combo.
 	Elesis: Hyper Armadura dá +15% de Defesa.
