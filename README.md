@@ -6,8 +6,8 @@
 	- delay em habilidades de escudo e fortificação<br />
 	
 <b>Fase 2:</b><br />
-	- reworks<br />
-	- buffs/nerfs (dano) em skills<br />
+	- reworks de skills<br />
+	- buffs/nerfs (dano) de skills<br />
 
 Bugs
 =================
