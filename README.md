@@ -6,6 +6,7 @@ Correções de bugs
 Combos infinitos
 ================
 	Arme[4]: Agarrões infinitos.
+	Mari[4]: Agarrões infinitos.
 	Jin[3]: Dragão crescente infinito.
 	Dio: Combo do Z infinito.
 
