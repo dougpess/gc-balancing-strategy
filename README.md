@@ -43,7 +43,7 @@ Movimentos desbalanceados/Gameplay tóxico
 	Lass[4]: Spamming Z up Combo Decreases the knock up.
 	Sieg[1]: ataque no pulo.
 	Ryan: spam de sementes selvagens.
-	Edel: stun excessivo no ataque com a pistola.
+	Edel: stun excessivo no ataque de pistola.
 	Mari[1]: spamando contrução de máquinas.
 	Uno: X sem queda.
 	Lire: Reduced Duration of Melhoria do Espirito from 10 sec to 5 sec.
