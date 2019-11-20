@@ -6,7 +6,7 @@
 	- delay em habilidades de escudo e fortificação<br />
 	
 <b>Fase 2:</b><br />
-	- Reworks<br />
+	- reworks<br />
 	- buffs/nerfs (dano) em skills<br />
 
 Bugs
