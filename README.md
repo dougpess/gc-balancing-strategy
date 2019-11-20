@@ -59,7 +59,6 @@ Movimentos desbalanceados/Gameplay tóxico
 	Lire: Movimento da Elfa has 5 sec Cooldown.
 	Ronan: Back Dash Attack deals less Damage.
 	
-
 Nerfs (não dano)
 ================
 	Mari[1]: spam de skills.
@@ -69,7 +68,7 @@ Nerfs (não dano)
 	Arme[1;4]: Fire Bolt can be destroyed by hitting them.
 	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos)
 	Veigas: 1MP sem counter (atração + one hit).
-
+	
 Buffs (não dano)
 ================
 	Elesis[1]: MP1 (Corte Incandecente nv1) mais stun, inimigos não mais podem escapar
