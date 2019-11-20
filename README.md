@@ -55,6 +55,6 @@ Skills desbalanceadas
 	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos).
 	Veigas: 1MP (atração e one hit)
 
-Stun aéreo
-==========
+Buff
+====
 	Elesis 2: Stun aéreo para 2MP.
