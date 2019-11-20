@@ -70,7 +70,7 @@ Nerfs (não dano)
 	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos)
 	Veigas: 1MP sem counter (atração + one hit).
 
-Buffs (Não dano)
+Buffs (não dano)
 ================
 	Elesis[1]: MP1 (Corte Incandecente nv1) mais stun, inimigos não mais podem escapar
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
