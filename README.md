@@ -12,7 +12,7 @@ Roteiro
 	
 <b>Fase 2 (não abordarei)</b><br />
 	- reworks de habilidades<br />
-	- buffs/nerfs de dano<br />
+	- buffs/nerfs de dano nas skills<br />
 
 Bugs
 ====
