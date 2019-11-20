@@ -1,6 +1,9 @@
+Etapa 1: Correção de bugs, combos infinitos e incoerências visuais
+
 Correções de bugs
 =================
 	Elesis: Ao sofrer queda durante a ativação da hyper armadura, Elesis fica travada e vunerável na posição de queda.
+	Elesis: Barra de MP permanece bloqueada após sair da posição de bloqueio.
 	Elesis[4]: Conjuração da 4MP falha as vezes.
 
 Combos infinitos
