@@ -1,4 +1,4 @@
-Fase 1: Tudo, exceto dano de skills. (bugs, combos infinitos, incoerências visuais, )
+Fase 1: Tudo, exceto dano de skills. (bugs, combos infinitos, incoerências visuais)
 Fase 2: Dano de skills.
 
 Bugs
@@ -30,7 +30,7 @@ Imunidade na ofensiva (mudar para hiper armadura)
 	Veigas: imunidade no ataque com recuo (crítico?).
 	Azin: imunidade no combo c/ teleporte.
 	
-Delay em habilidades de escudo, fortificação e furtivos
+Delay em habilidades de escudo, fortificação e furtivas
 =======================================================
 
 Gameplay tóxico (Dano -X%)
@@ -57,8 +57,8 @@ Skills desbalanceadas
 	Lass: Dança das adagas.
 	Arme[1]: 1MP (Petrificar) dano abusivo.
 	Arme[1;4]: Fire Bolt can be destroyed by hitting them.
-	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos).
-	Veigas: 1MP (atração e one hit)
+	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos)
+	Veigas: 1MP sem counter (atração + one hit).
 
 Buff
 ====
