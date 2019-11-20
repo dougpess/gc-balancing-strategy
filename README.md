@@ -6,8 +6,8 @@ Roteiro
 	- incoerências visuais<br />
 	- imunidade na ofensiva<br />
 	- delay em skills de escudo<br />
-	- Spam/Gameplay tóxico
-	- Nerfs (não dano)
+	- Spam/Gameplay tóxico<br />
+	- Nerfs (não dano)<br />
 	
 <b>Fase 2:</b><br />
 	- reworks de skills<br />
