@@ -70,6 +70,11 @@ Nerfs em geral (não dano)
 	Arme[1;4]: Fire Bolt can be destroyed by hitting them.
 	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos)
 	Veigas: 1MP sem counter (atração + one hit).
+	Lire[2]: Increased Knock up for Dash Up Attack.
+	Lire[2]: Decreased Invurnerability for Dash.
+	Lire[4]: Increased Knockup for Double Kick Attack.
+	Arme[2]: Jump Attack has higher Knock back.
+	
 	
 Buffs em geral (não dano)
 =========================
@@ -81,3 +86,5 @@ Buffs em geral (não dano)
 	Elesis: Hyper Armadura dá +15% de Defesa.
 	Elesis: Habilidade da ST (Provocar) em todas as classes.
 	Elesis[3]: Adiciona 0,5 seg Hyperarmor para o salto para baixo Ataque.
+	Arme[2]: Added Air Stun for Z Combo.
+	
