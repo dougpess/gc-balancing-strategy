@@ -5,7 +5,7 @@ Roteiro
 	- combos infinitos<br />
 	- incoerências visuais<br />
 	- imunidade na ofensiva<br />
-	- delay em habilidades de escudo e fortificação<br />
+	- delay em skills de escudo<br />
 	
 <b>Fase 2:</b><br />
 	- reworks de skills<br />
@@ -40,8 +40,8 @@ Imunidade na ofensiva (trocar para hiper armadura)
 	Veigas: imunidade no ataque com recuo (crítico?).
 	Azin: imunidade no combo c/ teleporte.
 	
-Delay em habilidades de escudo e fortificação
-=============================================
+Delay em skills de escudo
+=========================
 
 Movimentos desbalanceados/Gameplay tóxico
 =========================================
