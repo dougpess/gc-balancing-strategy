@@ -10,7 +10,7 @@ Roteiro
 	- nerfs em geral (não dano)<br />
 	- buffs em geral (não dano)<br />
 	
-<b>Fase 2:</b><br />	
+<b>Fase 2: (não abordarei)</b><br />
 	- reworks de habilidades<br />
 	- buffs/nerfs de dano<br />
 
