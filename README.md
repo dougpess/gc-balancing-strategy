@@ -60,7 +60,6 @@ Nerfs em geral (não dano)
 =========================
 	Lire: Movimento da Elfa has 5 sec Cooldown.
 	Lire: Reduced Duration of Melhoria do Espirito from 10 sec to 5 sec.
-	Lire[2]: Increased Knock up for Dash Up Attack.
 	Lire[2]: Decreased Invurnerability for Dash.
 	Lire[4]: Increased Knockup for Double Kick Attack.
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos. (Proposta:-20% Hitbox e -20% RecMP).
