@@ -3,8 +3,8 @@ Correções de bugs
 	Elesis: Ao sofrer queda durante a ativação da hyper armadura, Elesis fica travada e vunerável na posição de queda.
 	Elesis[4]: Conjuração da skill suprema falha as vezes.
 
-Combos infinitos/retardados
-===========================
+Combos infinitos
+================
 	Arme[4]: Agarrões infinitos.
 	Jin[3]: Dragão crescente infinito.
 	Dio: Combo infinito.
