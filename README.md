@@ -41,13 +41,13 @@ Imunidade na ofensiva (trocar para hiper armadura)
 	Dio: imunidade no ataque com vôo.
 	Holy: imunidade no ataque na corrida usando aura de ataque.
 	Veigas: imunidade no ataque com recuo (crítico?).
-	Azin: imunidade no combo c/ teleporte.
+	Azin: imunidade no ataque na corrida + XZZ.
 	
 Delay em skills de escudo
 =========================
 
 Spamming/Gameplay tóxico
-====================
+========================
 	Mari[1]: spam de contrução de máquinas.
 	Mari[3]: ataque no pulo.
 	Arme[2]: ataque no pulo.
