@@ -45,4 +45,4 @@ Skills desbalanceadas
 
 Buffs
 =====
-	Elesis 2: Fazer skill 2 nao da queda.
+	Elesis 2: Stun aéreo para skill 2 nao da queda.
