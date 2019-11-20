@@ -3,21 +3,21 @@ Correções de bugs
 	Elesis: congelada/flutua perto do chão quando recebe queda durante a ativação da super armadura.
 	Elesis 4: skill suprema falha quando o primeiro alvo morre antes do fim da animação.
 
-Corrigir combos infinitos
-=========================
+Combos infinitos retardados
+===========================
 	Arme 4: Agarrões infinitos.
 	Jin 3: Dragão crescente infinito.
 	Dio: Combo infinito.
 
-Correção de incoerências visuais
-================================
+Incoerências visuais
+====================
 	Lass 4: pode ser agarrado ou usar skill após usar "teleporte".
 	Sieg 4: imunidade em "atacar levantando" se extende além da animação.
 	Zero: imunidade em "rolamento" se extende além da animação.
 	Uno: Hitbox da Skill 1.
 
-Imunidade na ofensiva é ruim (Proposta: super armadura em vez de imunidade)
-===========================================================================
+Imunidade na ofensiva (Proposta: hiper armadura no lugar da imunidade)
+======================================================================
 	Arme 2: imunidade em "ataque na corrida".
 	Amy 4: imunidade em "mergulho depois do salto".
 	Dio: imunidade em "mergulho depois do vôo".
@@ -43,6 +43,6 @@ Skills desbalanceadas
 	Ronan 3: Skill 2 (Defesa Mágica). Original[6 hits ou 25 segundos]. Proposto[5 hits ou 20 segundos].
 	Veigas: skill 1 (atração e one hit)
 
-Buffs
-=====
-	Elesis 2: Stun aéreo para skill 2 nao da queda.
+Stun aéreo
+==========
+	Elesis 2: Stun aéreo para skill 2.
