@@ -81,7 +81,7 @@ Buffs em geral (não dano)
 =========================	
 	Elesis: Hyper Armadura dá +15% de Defesa.
 	Elesis: Habilidade da ST (Provocar) em todas as classes.
-	Elesis[1]: MP1 (Corte Incandecente nv1) mais stun, inimigos não mais podem escapar
+	Elesis[1]: MP1 (Corte Incandecente nv1) mais stun, inimigos não mais podem escapar.
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
 	Elesis[2]: Added Air Stun for the first 2 hits of Z Combo.
 	Elesis[2]: Stun aéreo para 2MP.
