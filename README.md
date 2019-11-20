@@ -12,9 +12,9 @@ Combos infinitos
 Incoerências visuais
 ====================
 	Lass[4]: Pode ser agarrado ou usar skill após ativar o teleporte.
-	Sieg[4]: imunidade em "atacar levantando" se extende além da animação.
-	Zero: imunidade em "rolamento" se extende além da animação.
-	Uno: Hitbox da Skill 1.
+	Sieg[4]: quando levanta-se atacando, a imunidade extende-se além da animação.
+	Zero: imunidade do rolamento extende-se além da animação.
+	Uno: Hitbox abusiva da Skill 1.
 
 Imunidade na ofensiva (Proposta: hiper armadura no lugar da imunidade)
 ======================================================================
