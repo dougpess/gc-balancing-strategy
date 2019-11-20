@@ -1,6 +1,6 @@
 Roteiro
 =======
-<b>Fase 1:</b><br />
+<b>Fase 1</b><br />
 	- Bugs<br />
 	- combos infinitos<br />
 	- incoerências visuais<br />
@@ -10,7 +10,7 @@ Roteiro
 	- nerfs em geral (não dano)<br />
 	- buffs em geral (não dano)<br />
 	
-<b>Fase 2: (não abordarei)</b><br />
+<b>Fase 2 (não abordarei)</b><br />
 	- reworks de habilidades<br />
 	- buffs/nerfs de dano<br />
 
