@@ -41,7 +41,7 @@ Imunidade na ofensiva (trocar para hiper armadura)
 	Dio: imunidade no ataque com vôo.
 	Holy: imunidade no ataque na corrida usando aura de ataque.
 	Veigas: imunidade na ST Recuo.
-	Azin: imunidade no ataque na corrida + XZZ.
+	Azin: imunidade no Corrida + ZXZZ.
 	
 Delay em skills de escudo
 =========================
@@ -66,7 +66,7 @@ Nerfs em geral (não dano)
 	Arme[1]: 1MP (Petrificar) dano abusivo.
 	Arme[2]: Jump Attack has higher Knock back.
 	Arme[1;4]: Bola de Fogo pode ser destruída batendo nela.
-	Lass: Dança das Adagas é extremamente safe.
+	Lass[1]: Lass extremamente seguro (Dança das Adagas e Corrida Z baixo).
 	Lass[1]: Traps have 3 sec cooltime.
 	Lass[4]: Spamming Z up Combo Decreases the knock up.
 	Edel: stun excessivo no ataque de pistola.	
