@@ -24,6 +24,9 @@ Imunidade na ofensiva (Proposta: hiper armadura em vez de imunidade)
 	Holy: imunidade no ataque na corrida usando aura de ataque.
 	Veigas: imunidade no ataque com recuo (crítico?).
 	Azin: imunidade no combo c/ teleporte.
+	
+Delay em habilidades de escudo
+==============================
 
 Gameplay tóxico (Dano -X%)
 ==========================
@@ -35,11 +38,14 @@ Gameplay tóxico (Dano -X%)
 	Edel: stun excessivo no ataque com a pistola.
 	Mari[1]: spam de skills e contrução de máquinas.
 	Uno: X sem queda.
+	Lire: Reduced Duration of Melhoria do Espirito from 10 sec to 5 sec.
+	Lire: Movimento da Elfa has 5 sec Cooldown.
 
 Skills desbalanceadas
 =====================
-	Arme[1]: skill 1 (Drenagem) hitbox e recuperação de mp abusivos. (Proposta:-20% Hitbox e -20% RecMP).
+	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos. (Proposta:-20% Hitbox e -20% RecMP).
 	Lass: Dança das adagas.
+	Arme[1]: 1MP (Petrificar) dano abusivo.
 	Ronan[3]: Skill 2 (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos).
 	Veigas: skill 1 (atração e one hit)
 
