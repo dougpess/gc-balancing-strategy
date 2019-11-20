@@ -74,6 +74,7 @@ Nerfs em geral (não dano)
 	Lire[2]: Decreased Invurnerability for Dash.
 	Lire[4]: Increased Knockup for Double Kick Attack.
 	Arme[2]: Jump Attack has higher Knock back.
+	Uno: Back Dash Attack1 has only Stun , Back Dash Attack2 has now Knockdown.
 	
 	
 Buffs em geral (não dano)
