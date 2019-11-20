@@ -1,4 +1,4 @@
-Fase 1:
+<b>Fase 1:</b>
 
 	- Bugs
 	
@@ -10,7 +10,7 @@ Fase 1:
 	
 	- delay em habilidades de escudo e fortificação
 	
-Fase 2:
+<b>Fase 2:</b>
 
 	- Reworks
 	
