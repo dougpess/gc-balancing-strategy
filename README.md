@@ -1,4 +1,5 @@
-Etapa 1: Correção de bugs, combos infinitos e incoerências visuais
+Fase 1: Tudo, exceto dano de skills. (bugs, combos infinitos, incoerências visuais, )
+Fase 2: Dano de skills.
 
 Correções de bugs
 =================
@@ -29,8 +30,8 @@ Imunidade na ofensiva (Proposta: hiper armadura em vez de imunidade)
 	Veigas: imunidade no ataque com recuo (crítico?).
 	Azin: imunidade no combo c/ teleporte.
 	
-Delay em habilidades de escudo
-==============================
+Delay em habilidades de escudo, fortificação e furtivos
+=======================================================
 
 Gameplay tóxico (Dano -X%)
 ==========================
