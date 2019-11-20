@@ -1,24 +1,24 @@
 <b>Fase 1:</b><br />
-	- Bugs<br />	
-	- combos infinitos<br />	
+	- Bugs<br />
+	- combos infinitos<br />
 	- incoerências visuais<br />
-	- imunidade na ofensiva<br />	
+	- imunidade na ofensiva<br />
 	- delay em habilidades de escudo e fortificação<br />
 	
 <b>Fase 2:</b><br />
-	- Reworks<br />	
+	- Reworks<br />
 	- buffs/nerfs (dano) em skills<br />
 
 Bugs
 =================
-	Elesis:	Ao sofrer queda durante a ativação da hyper armadura, Elesis fica travada e vunerável na posição de queda.
+	Elesis: Ao sofrer queda durante a ativação da hyper armadura, Elesis fica travada e vunerável na posição de queda.
 	Elesis: Barra de MP permanece bloqueada após sair da posição de bloqueio.
 	Elesis[4]: Conjuração da 4MP falha quando, 1)existem alvos no exato momento que a 4MP é conjurada; e 2) não existem alvos no exato momento que a 4MP termina de ser conjurada.
 
 Combos infinitos
 ================
 	Arme[4]: Agarrões infinitos.
-	Mari[4]: Agarrões infinitos.		
+	Mari[4]: Agarrões infinitos.
 	Jin[3]: Dragão crescente infinito. (Dash up Attack has increased knock up)
 	Dio: Combo do Z infinito.
 
