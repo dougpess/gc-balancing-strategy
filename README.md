@@ -46,7 +46,7 @@ Imunidade na ofensiva (trocar para hiper armadura)
 Delay em skills de escudo
 =========================
 
-Spam/Gameplay tóxico
+Spamming/Gameplay tóxico
 ====================
 	Mari[1]: spam de contrução de máquinas.
 	Mari[3]: ataque no pulo.
