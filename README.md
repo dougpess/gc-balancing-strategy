@@ -7,7 +7,7 @@ Combos infinitos
 ================
 	Arme[4]: Agarrões infinitos.
 	Jin[3]: Dragão crescente infinito.
-	Dio: Combo infinito.
+	Dio: Combo do Z infinito.
 
 Incoerências visuais
 ====================
