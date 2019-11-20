@@ -1,7 +1,7 @@
 Correções de bugs
 =================
 	Elesis: Ao sofrer queda durante a ativação da hyper armadura, Elesis fica travada e vunerável na posição de queda.
-	Elesis[4]: Conjuração da skill suprema falha as vezes.
+	Elesis[4]: Conjuração da 4MP falha as vezes.
 
 Combos infinitos
 ================
@@ -15,7 +15,7 @@ Incoerências visuais
 	Lass[4]: Pode ser agarrado ou usar skill após ativar o teleporte. (Add Invurnerability and Skill Block on Teleport)
 	Sieg[4]: quando levantar-se atacando, a imunidade extende-se além da animação.
 	Zero: imunidade do rolamento extende-se além da animação.
-	Uno: Hitbox abusiva da Skill 1.
+	Uno: Hitbox abusiva da 1MP.
 
 Imunidade na ofensiva (Proposta: hiper armadura em vez de imunidade)
 ====================================================================
@@ -52,9 +52,9 @@ Skills desbalanceadas
 	Lass: Dança das adagas.
 	Arme[1]: 1MP (Petrificar) dano abusivo.
 	Arme[1;4]: Fire Bolt can be destroyed by hitting them.
-	Ronan[3]: Skill 2 (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos).
-	Veigas: skill 1 (atração e one hit)
+	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos).
+	Veigas: 1MP (atração e one hit)
 
 Stun aéreo
 ==========
-	Elesis 2: Stun aéreo para skill 2.
+	Elesis 2: Stun aéreo para 2MP.
