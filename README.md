@@ -60,8 +60,8 @@ Movimentos desbalanceados/Gameplay tóxico
 	Ronan: Back Dash Attack deals less Damage.
 	
 
-Skills desbalanceadas
-=====================
+Nerfs (não dano)
+================
 	Mari[1]: spam de skills.
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos. (Proposta:-20% Hitbox e -20% RecMP).
 	Lass: Dança das adagas.
@@ -70,9 +70,12 @@ Skills desbalanceadas
 	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos)
 	Veigas: 1MP sem counter (atração + one hit).
 
-Buffs
-=====
+Buffs (Não dano)
+================
 	Elesis[1]: MP1 (Corte Incandecente nv1) mais stun, inimigos não mais podem escapar
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
 	Elesis[2]: Stun aéreo para 2MP.
+	Elesis[2]: Adicionado Air Stun para os primeiros 2 hits de Z Combo.
 	Elesis: Hyper Armadura dá +15% de Defesa.
+	Elesis: Habilidade da ST (Provocar) em todas as classes.
+	Elesis[3]: Adiciona 0,5 seg Hyperarmor para o salto para baixo Ataque.
