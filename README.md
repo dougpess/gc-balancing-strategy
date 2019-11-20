@@ -40,7 +40,7 @@ Imunidade na ofensiva (trocar para hiper armadura)
 	Amy[4]: imunidade no ataque descendente.
 	Dio: imunidade no ataque com vôo.
 	Holy: imunidade no ataque na corrida usando aura de ataque.
-	Veigas: imunidade no ataque com recuo (crítico?).
+	Veigas: imunidade na ST Recuo.
 	Azin: imunidade no ataque na corrida + XZZ.
 	
 Delay em skills de escudo
