@@ -21,7 +21,7 @@ Incoerências visuais
 	Zero: imunidade do rolamento extende-se além da animação.
 	Uno: Hitbox abusiva da 1MP.
 
-Imunidade na ofensiva (Proposta: hiper armadura em vez de imunidade)
+Imunidade na ofensiva (hiper armadura em vez de imunidade)
 ====================================================================
 	Arme[2]: imunidade no ataque na corrida.
 	Amy[4]: imunidade no ataque descendente.
