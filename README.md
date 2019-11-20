@@ -46,21 +46,20 @@ Delay em skills de escudo
 Movimentos desbalanceados/Gameplay tóxico
 =========================================
 	Arme[2]: ataque no pulo.
-	Mari[3]: ataque no pulo.
-	Lass[1]: Traps have 3 sec cooltime.
-	Lass[3]: ataque no pulo.
-	Lass[4]: Spamming Z up Combo Decreases the knock up.
+	Mari[3]: ataque no pulo.	
+	Lass[3]: ataque no pulo.	
 	Sieg[1]: ataque no pulo.
-	Ryan: spam de sementes selvagens.
-	Edel: stun excessivo no ataque de pistola.
-	Mari[1]: spamando contrução de máquinas.
-	Uno: X sem queda.
-	Lire: Reduced Duration of Melhoria do Espirito from 10 sec to 5 sec.
-	Lire: Movimento da Elfa has 5 sec Cooldown.
-	Ronan: Back Dash Attack deals less Damage.
+	Ryan: spam de sementes selvagens.	
+	Mari[1]: spam de contrução de máquinas.
+	Ronan: spam de choque rápido.
 	
 Nerfs (não dano)
 ================
+	Lire: Reduced Duration of Melhoria do Espirito from 10 sec to 5 sec.	
+	Edel: stun excessivo no ataque de pistola.
+	Lass[4]: Spamming Z up Combo Decreases the knock up.
+	Lass[1]: Traps have 3 sec cooltime.
+	Lire: Movimento da Elfa has 5 sec Cooldown.
 	Mari[1]: spam de skills.
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos. (Proposta:-20% Hitbox e -20% RecMP).
 	Lass: Dança das adagas.
