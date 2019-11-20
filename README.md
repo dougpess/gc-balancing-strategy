@@ -1,7 +1,7 @@
 Correções de bugs
 =================
 	Elesis: Ao sofrer queda durante a ativação da hyper armadura, Elesis fica travada e vunerável na posição de queda.
-	Elesis[4]: Conjuração da skill suprema pode falhar.
+	Elesis[4]: Conjuração da skill suprema falha as vezes.
 
 Combos infinitos/retardados
 ===========================
