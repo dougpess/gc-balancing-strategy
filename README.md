@@ -72,4 +72,5 @@ Skills desbalanceadas
 
 Skill Buff
 ==========
-	Elesis 2: Stun aéreo para 2MP.
+	Elesis[1]: MP1 (Corte Incandecente nv1) mais stun, inimigos não mais podem escapar.
+	Elesis[2]: Stun aéreo para 2MP.
