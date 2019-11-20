@@ -86,5 +86,3 @@ Buffs em geral (não dano)
 	Elesis: Hyper Armadura dá +15% de Defesa.
 	Elesis: Habilidade da ST (Provocar) em todas as classes.
 	Elesis[3]: Adiciona 0,5 seg Hyperarmor para o salto para baixo Ataque.
-	Arme[2]: Added Air Stun for Z Combo.
-	
