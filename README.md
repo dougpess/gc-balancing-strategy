@@ -1,7 +1,7 @@
 Fase 1: Tudo, exceto dano de skills. (bugs, combos infinitos, incoerências visuais, )
 Fase 2: Dano de skills.
 
-Correções de bugs
+Bugs
 =================
 	Elesis: Ao sofrer queda durante a ativação da hyper armadura, Elesis fica travada e vunerável na posição de queda.
 	Elesis: Barra de MP permanece bloqueada após sair da posição de bloqueio.
