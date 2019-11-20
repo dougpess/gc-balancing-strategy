@@ -1,6 +1,20 @@
-Fase 1: Tudo, exceto dano de skills. (bugs, combos infinitos, incoerências visuais)
+Fase 1:
 
-Fase 2: Buff/nerf de dano nas skills.
+	- Bugs
+	
+	- combos infinitos
+	
+	- incoerências visuais
+	
+	- imunidade na ofensiva
+	
+	- delay em habilidades de escudo e fortificação
+	
+Fase 2:
+
+	- Reworks
+	
+	- buffs/nerfs (dano) em skills
 
 Bugs
 =================
@@ -31,8 +45,8 @@ Imunidade na ofensiva (trocar para hiper armadura)
 	Veigas: imunidade no ataque com recuo (crítico?).
 	Azin: imunidade no combo c/ teleporte.
 	
-Delay em habilidades de escudo, fortificação e furtivas
-=======================================================
+Delay em habilidades de escudo e fortificação
+=============================================
 
 Movimentos desbalanceados/Gameplay tóxico
 =========================================
