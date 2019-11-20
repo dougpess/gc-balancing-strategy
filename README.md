@@ -4,7 +4,7 @@ Correções de bugs
 =================
 	Elesis: Ao sofrer queda durante a ativação da hyper armadura, Elesis fica travada e vunerável na posição de queda.
 	Elesis: Barra de MP permanece bloqueada após sair da posição de bloqueio.
-	Elesis[4]: Conjuração da 4MP falha as vezes.
+	Elesis[4]: Conjuração da 4MP falha quando, 1)existem alvos no exato momento que a 4MP é conjurada; e 2) não existem alvos no exato momento que a 4MP termina de ser conjurada.
 
 Combos infinitos
 ================
