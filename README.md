@@ -1,20 +1,13 @@
-<b>Fase 1:</b>
-
-	- Bugs
+<b>Fase 1:</b><br />
+	- Bugs<br />	
+	- combos infinitos<br />	
+	- incoerências visuais<br />
+	- imunidade na ofensiva<br />	
+	- delay em habilidades de escudo e fortificação<br />
 	
-	- combos infinitos
-	
-	- incoerências visuais
-	
-	- imunidade na ofensiva
-	
-	- delay em habilidades de escudo e fortificação
-	
-<b>Fase 2:</b>
-
-	- Reworks
-	
-	- buffs/nerfs (dano) em skills
+<b>Fase 2:</b><br />
+	- Reworks<br />	
+	- buffs/nerfs (dano) em skills<br />
 
 Bugs
 =================
