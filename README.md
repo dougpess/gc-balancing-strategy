@@ -34,8 +34,8 @@ Imunidade na ofensiva (mudar para hiper armadura)
 Delay em habilidades de escudo, fortificação e furtivas
 =======================================================
 
-Gameplay tóxico (Dano -X%)
-==========================
+Movimentos desbalanceados/Gameplay tóxico
+=========================================
 	Arme[2]: ataque no pulo.
 	Mari[3]: ataque no pulo.
 	Lass[1]: Traps have 3 sec cooltime.
