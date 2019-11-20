@@ -65,7 +65,7 @@ Nerfs em geral (não dano)
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos. (Proposta:-20% Hitbox e -20% RecMP).
 	Arme[1]: 1MP (Petrificar) dano abusivo.
 	Arme[2]: Jump Attack has higher Knock back.
-	Arme[1;4]: Fire Bolt can be destroyed by hitting them.	
+	Arme[1;4]: Bola de Fogo pode ser destruída batendo nela.
 	Lass: Dança das Adagas é extremamente safe.
 	Lass[1]: Traps have 3 sec cooltime.
 	Lass[4]: Spamming Z up Combo Decreases the knock up.
