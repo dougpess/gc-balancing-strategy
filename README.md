@@ -1,6 +1,6 @@
 Correções de bugs
 =================
-	Elesis: congelada/flutua perto do chão quando recebe queda durante a ativação da super armadura.
+	Elesis: Ao receber queda durante a ativação da hyper armadura, Elesis fica travada e vunerável na posição de queda.
 	Elesis[4]: skill suprema falha quando o primeiro alvo morre antes do fim da animação.
 
 Combos infinitos/retardados
