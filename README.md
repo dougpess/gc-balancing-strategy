@@ -66,7 +66,7 @@ Nerfs em geral (não dano)
 	Arme[1]: 1MP (Petrificar) dano abusivo.
 	Arme[2]: Jump Attack has higher Knock back.
 	Arme[1;4]: Fire Bolt can be destroyed by hitting them.	
-	Lass: Dança das adagas.
+	Lass: Dança das Adagas é extremamente safe.
 	Lass[1]: Traps have 3 sec cooltime.
 	Lass[4]: Spamming Z up Combo Decreases the knock up.
 	Edel: stun excessivo no ataque de pistola.	
