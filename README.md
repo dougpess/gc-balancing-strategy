@@ -6,6 +6,8 @@ Roteiro
 	- incoerências visuais<br />
 	- imunidade na ofensiva<br />
 	- delay em skills de escudo<br />
+	- Spam/Gameplay tóxico
+	- Nerfs (não dano)
 	
 <b>Fase 2:</b><br />
 	- reworks de skills<br />
@@ -53,8 +55,8 @@ Spam/Gameplay tóxico
 	Mari[1]: spam de contrução de máquinas.
 	Ronan: spam de choque rápido.
 	
-Nerfs (não dano)
-================
+Nerfs em geral (não dano)
+=========================
 	Lire: Reduced Duration of Melhoria do Espirito from 10 sec to 5 sec.	
 	Edel: stun excessivo no ataque de pistola.
 	Lass[4]: Spamming Z up Combo Decreases the knock up.
@@ -68,8 +70,8 @@ Nerfs (não dano)
 	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos)
 	Veigas: 1MP sem counter (atração + one hit).
 	
-Buffs (não dano)
-================
+Buffs em geral (não dano)
+=========================
 	Elesis[1]: MP1 (Corte Incandecente nv1) mais stun, inimigos não mais podem escapar
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
 	Elesis[2]: Stun aéreo para 2MP.
