@@ -43,8 +43,8 @@ Imunidade na ofensiva (trocar para hiper armadura)
 Delay em skills de escudo
 =========================
 
-Movimentos desbalanceados/Gameplay tóxico
-=========================================
+Spam/Gameplay tóxico
+====================
 	Arme[2]: ataque no pulo.
 	Mari[3]: ataque no pulo.	
 	Lass[3]: ataque no pulo.	
