@@ -48,32 +48,32 @@ Delay em skills de escudo
 
 Spam/Gameplay tóxico
 ====================
+	Mari[1]: spam de contrução de máquinas.
+	Mari[3]: ataque no pulo.
 	Arme[2]: ataque no pulo.
-	Mari[3]: ataque no pulo.	
 	Lass[3]: ataque no pulo.	
 	Sieg[1]: ataque no pulo.
-	Ryan: spam de sementes selvagens.	
-	Mari[1]: spam de contrução de máquinas.
+	Ryan: spam de sementes selvagens.
 	Ronan: spam de choque rápido.
 	
 Nerfs em geral (não dano)
 =========================
-	Lire: Reduced Duration of Melhoria do Espirito from 10 sec to 5 sec.	
-	Edel: stun excessivo no ataque de pistola.
-	Lass[4]: Spamming Z up Combo Decreases the knock up.
-	Lass[1]: Traps have 3 sec cooltime.
 	Lire: Movimento da Elfa has 5 sec Cooldown.
-	Mari[1]: spam de skills.
-	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos. (Proposta:-20% Hitbox e -20% RecMP).
-	Lass: Dança das adagas.
-	Arme[1]: 1MP (Petrificar) dano abusivo.
-	Arme[1;4]: Fire Bolt can be destroyed by hitting them.
-	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos)
-	Veigas: 1MP sem counter (atração + one hit).
+	Lire: Reduced Duration of Melhoria do Espirito from 10 sec to 5 sec.
 	Lire[2]: Increased Knock up for Dash Up Attack.
 	Lire[2]: Decreased Invurnerability for Dash.
 	Lire[4]: Increased Knockup for Double Kick Attack.
+	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos. (Proposta:-20% Hitbox e -20% RecMP).
+	Arme[1]: 1MP (Petrificar) dano abusivo.
 	Arme[2]: Jump Attack has higher Knock back.
+	Arme[1;4]: Fire Bolt can be destroyed by hitting them.	
+	Lass: Dança das adagas.
+	Lass[1]: Traps have 3 sec cooltime.
+	Lass[4]: Spamming Z up Combo Decreases the knock up.
+	Edel: stun excessivo no ataque de pistola.	
+	Mari[1]: spam de skills.
+	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos)
+	Veigas: 1MP sem counter (atração + one hit).
 	Uno: Back Dash Attack1 has only Stun , Back Dash Attack2 has now Knockdown.
 	
 	
