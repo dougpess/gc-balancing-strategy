@@ -52,7 +52,7 @@ Gameplay tóxico (Dano -X%)
 
 Skills desbalanceadas
 =====================
-	Mari[1]: spamando skills.
+	Mari[1]: spam de skills.
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos. (Proposta:-20% Hitbox e -20% RecMP).
 	Lass: Dança das adagas.
 	Arme[1]: 1MP (Petrificar) dano abusivo.
