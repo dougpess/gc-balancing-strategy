@@ -18,29 +18,29 @@ Incoerências visuais
 
 Imunidade na ofensiva (Proposta: hiper armadura no lugar da imunidade)
 ======================================================================
-	Arme[2]: imunidade em "ataque na corrida".
-	Amy[4]: imunidade em "mergulho depois do salto".
-	Dio: imunidade em "mergulho depois do vôo".
-	Holy: imunidade em "ataque na corrida usando aura de ataque".
-	Veigas: imunidade em "recuo no ataque".
-	Azin: combo c/ teleporte.
+	Arme[2]: imunidade no ataque na corrida.
+	Amy[4]: imunidade no ataque descendente.
+	Dio: imunidade no ataque com vôo.
+	Holy: imunidade no ataque na corrida usando aura de ataque.
+	Veigas: imunidade no ataque com recuo (crítico?).
+	Azin: imunidade no combo c/ teleporte.
 
 Gameplay tóxico (Dano -X%)
 ==========================
-	Arme[2]
-	Mari[3]
+	Arme[2]: ataque no pulo.
+	Mari[3]: ataque no pulo.
 	Lass[3]: ataque no pulo.
 	Sieg[1]: ataque no pulo.
 	Ryan: spam de sementes selvagens.
-	Edel: stun excessivo na pistola.
+	Edel: stun excessivo no ataque com a pistola.
 	Mari[1]: spam de skills e contrução de máquinas.
-	Uno: X não da queda.
+	Uno: X sem queda.
 
 Skills desbalanceadas
 =====================
-	Arme[1]: skill 1 (Drenagem) hitbox e recuperação de mp. Proposto[-20% Hitbox e -20% RecMP].
+	Arme[1]: skill 1 (Drenagem) hitbox e recuperação de mp abusivos. (Proposta:-20% Hitbox e -20% RecMP).
 	Lass: Dança das adagas.
-	Ronan[3]: Skill 2 (Defesa Mágica). Original[6 hits ou 25 segundos]. Proposto[5 hits ou 20 segundos].
+	Ronan[3]: Skill 2 (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos).
 	Veigas: skill 1 (atração e one hit)
 
 Stun aéreo
