@@ -7,8 +7,8 @@ Roteiro
 	- imunidade na ofensiva<br />
 	- delay em skills de escudo<br />
 	- Spam/Gameplay tóxico<br />
-	- Nerfs em geral (não dano)<br />
-	- Buffs em geral (não dano)<br />
+	- nerfs em geral (não dano)<br />
+	- buffs em geral (não dano)<br />
 	
 <b>Fase 2:</b><br />	
 	- reworks de skills<br />
