@@ -1,4 +1,5 @@
 Fase 1: Tudo, exceto dano de skills. (bugs, combos infinitos, incoerências visuais)
+
 Fase 2: Dano de skills.
 
 Bugs
