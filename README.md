@@ -11,7 +11,7 @@ Roteiro
 	- buffs em geral (não dano)<br />
 	
 <b>Fase 2:</b><br />	
-	- reworks de skills<br />
+	- reworks de skills/combos<br />
 	- buffs/nerfs de dano<br />
 
 Bugs
