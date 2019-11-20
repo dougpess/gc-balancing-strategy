@@ -7,7 +7,7 @@ Combos infinitos
 ================
 	Arme[4]: Agarrões infinitos.
 	Mari[4]: Agarrões infinitos.
-	Jin[3]: Dragão crescente infinito.
+	Jin[3]: Dragão crescente infinito. (Dash up Attack has increased knock up)
 	Dio: Combo do Z infinito.
 
 Incoerências visuais
