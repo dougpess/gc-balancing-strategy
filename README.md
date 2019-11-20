@@ -75,3 +75,4 @@ Buffs
 	Elesis[1]: MP1 (Corte Incandecente nv1) mais stun, inimigos não mais podem escapar
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
 	Elesis[2]: Stun aéreo para 2MP.
+	Elesis: Hyper Armadura dá +15% de Defesa.
