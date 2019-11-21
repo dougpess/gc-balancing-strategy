@@ -24,22 +24,21 @@ Combos infinitos
 ================
 	Arme[4]: Agarrões infinitos.
 	Mari[4]: Agarrões infinitos.
-	Jin[3]: Dragão crescente infinito.
+	Jin[3]: Dragão Crescente infinito.
 	Dio: Z Combo infinito.
 
 Incoerências visuais
 ====================
-	Lass[4]: Pode ser agarrado ou usar skill após ativar o teleporte. (Add Invurnerability and Skill Block on Teleport)
+	Lass[4]: Pode ser agarrado ou usar skill após o teleporte. (Add Invurnerability and Skill Block on Teleport)
 	Sieg[4]: Quando levantar-se atacando, a imunidade extende-se além da animação.
 	Zero: Imunidade do rolamento extende-se além da animação.
 	Uno: 1MP com Hitbox abusiva.
 
 Imunidade na ofensiva (trocar para hiper armadura)
 ==================================================
-	Arme[1]: imunidade em ZZ Cima.
+	Arme[1]: imunidade em Z Combo Cima.
 	Arme[2]: imunidade em Ataque na Corrida.
 	Amy[4]: imunidade em Mergulho com Ataque.
-	Dio: imunidade em ataque com vôo.
 	Holy: imunidade em ataque na corrida usando aura de ataque.
 	Veigas: imunidade em ST Recuo.
 	Azin: imunidade em Corrida + ZXZZ.
