@@ -36,12 +36,13 @@ Incoerências visuais
 
 Imunidade na ofensiva (trocar para hiper armadura)
 ==================================================
-	Arme[2]: imunidade no ataque na corrida.
-	Amy[4]: imunidade no ataque descendente.
-	Dio: imunidade no ataque com vôo.
-	Holy: imunidade no ataque na corrida usando aura de ataque.
-	Veigas: imunidade na ST Recuo.
-	Azin: imunidade no Corrida + ZXZZ.
+	Arme[2]: imunidade em ataque na corrida.
+	Amy[4]: imunidade em ataque descendente.
+	Dio: imunidade em ataque com vôo.
+	Holy: imunidade em ataque na corrida usando aura de ataque.
+	Veigas: imunidade em ST Recuo.
+	Azin: imunidade em Corrida + ZXZZ.
+	Jin[4]: imunidade em Garça Ascendente.
 	
 Delay em skills de escudo
 =========================
