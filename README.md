@@ -36,9 +36,9 @@ Incoerências visuais
 
 Imunidade na ofensiva (trocar para hiper armadura)
 ==================================================
-	Arme[1]: imunidade em ZZ cima.
-	Arme[2]: imunidade em ataque na corrida.
-	Amy[4]: imunidade em ataque descendente.
+	Arme[1]: imunidade em ZZ Cima.
+	Arme[2]: imunidade em Ataque na Corrida.
+	Amy[4]: imunidade em Mergulho com Ataque.
 	Dio: imunidade em ataque com vôo.
 	Holy: imunidade em ataque na corrida usando aura de ataque.
 	Veigas: imunidade em ST Recuo.
