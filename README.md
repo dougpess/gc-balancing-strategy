@@ -37,12 +37,12 @@ Incoerências visuais
 
 Imunidade na ofensiva (trocar para hiper armadura)
 ==================================================
-	Arme[1]: imunidade em Z Combo Cima.
+	Arme[1]: imunidade em Cima durante Z Combo.
 	Arme[2]: imunidade em Ataque na Corrida.
-	Amy[4]: imunidade no Z Baixo depois do pulo.
-	Holy: imunidade em ataque na corrida usando aura de ataque.
-	Veigas: imunidade em ST Recuo.
-	Azin: imunidade em Corrida + ZXZZ.
+	Amy[4]: imunidade em Baixo Z durante o pulo.
+	Holy: imunidade em Ataque na Corrida usando Aura de Ataque.
+	Veigas: imunidade em Recuo durante Z Combo.
+	Azin: imunidade em ZXZZ durante a Corrida.
 	Jin[4]: imunidade em Garça Ascendente.
 	Lire[2]: Decreased Invurnerability for Dash.
 	
