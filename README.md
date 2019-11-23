@@ -34,6 +34,7 @@ Incoerências visuais
 	Sieg[4]: Imunidade excessiva em levantar-se atacando.
 	Zero: Imunidade excessiva em rolamento.
 	Uno: Hitbox abusiva em 1MP.
+	Lire[2]: Imunidade excessiva em Dash.
 
 Imunidade na ofensiva (trocar para hiper armadura)
 ==================================================
@@ -44,8 +45,7 @@ Imunidade na ofensiva (trocar para hiper armadura)
 	Veigas: imunidade em Recuo durante Z Combo.
 	Azin: imunidade em ZXZZ durante a Corrida.
 	Jin[4]: imunidade em Garça Ascendente.
-	Lire[2]: Decreased Invurnerability for Dash.
-	
+		
 Delay em skills de escudo?
 ==========================
 
