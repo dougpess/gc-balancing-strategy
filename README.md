@@ -22,8 +22,8 @@ Bugs
 
 Combos infinitos
 ================
-	Arme[4]: Agarrões infinitos.
-	Mari[4]: Agarrões infinitos.
+	Arme[4]: Agarrões infinitos?
+	Mari[4]: Agarrões infinitos?
 	Jin[3]: Dragão Crescente infinito.
 	Dio: Z Combo infinito.
 
@@ -43,14 +43,15 @@ Imunidade na ofensiva (trocar para hiper armadura)
 	Veigas: imunidade em ST Recuo.
 	Azin: imunidade em Corrida + ZXZZ.
 	Jin[4]: imunidade em Garça Ascendente.
+	Lire[2]: Decreased Invurnerability for Dash.
 	
-Delay em skills de escudo
-=========================
+Delay em skills de escudo?
+==========================
 
 Spamming/Gameplay tóxico
 ========================
 	Mari[1]: spam de contrução de máquinas.
-	Mari[3]: ataque no pulo.
+	Mari[2]: ataque no pulo.
 	Arme[2]: ataque no pulo.
 	Lass[3]: ataque no pulo.	
 	Sieg[1]: ataque no pulo.
@@ -58,25 +59,16 @@ Spamming/Gameplay tóxico
 	Ronan: spam de choque rápido.
 	
 Nerfs em geral (não dano)
-=========================
-	Lire: Movimento da Elfa has 5 sec Cooldown.
-	Lire: Reduced Duration of Melhoria do Espirito from 10 sec to 5 sec.
-	Lire[2]: Decreased Invurnerability for Dash.
-	Lire[4]: Increased Knockup for Double Kick Attack.
+=========================	
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos. (Proposta:-20% Hitbox e -20% RecMP).
-	Arme[1]: 1MP (Petrificar) dano abusivo.
-	Arme[2]: Jump Attack has higher Knock back.
 	Arme[1;4]: Bola de Fogo pode ser destruída batendo nela.
 	Lass[1]: Lass extremamente seguro em pvp (nerf em Dança das Adagas; nerf em Corrida Z baixo; nerf em stun).
-	Lass[1]: Traps have 3 sec cooltime.
-	Lass[4]: Spamming Z up Combo Decreases the knock up.
-	Edel: stun excessivo no ataque de pistola.
-	Mari[1]: spam de skills.
+	Edel: stun excessivo no ataque de pistola?
+	Mari[1]: spam de skills?
 	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos)
 	Veigas: 1AP (Frenesi das Trevas). Adicionar counter ou reduzir dano.
 	Uno: Back Dash Attack1 has only Stun , Back Dash Attack2 has now Knockdown.
-	
-	
+		
 Buffs em geral (não dano)
 =========================	
 	Elesis: Hyper Armadura dá +15% de Defesa.
