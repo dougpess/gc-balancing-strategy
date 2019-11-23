@@ -17,7 +17,8 @@ Roteiro
 Bugs
 ====
 	Elesis: Não consegue usar skills enquando Def Mágica em cooldown.
-	Elesis[4]: Conjuração da 4MP falha quando, 1)existem alvos no exato momento que a 4MP é conjurada; e 2) não existem alvos no exato momento que a 4MP termina de ser conjurada.
+	Elesis[4]: Conjuração da 4MP falha quando, 1) ela é conjurada com alvos no mapa mas se esses alvos morrem ou somem antes da conjuração ser completada, ela falha;
+	Elesis[4]: Conjuração da 4MP falha quando, 2) é atingida por um ataque perseguidor antes da conjuração ser completada (Kamiki/Gadozen).
 
 Combos infinitos
 ================
