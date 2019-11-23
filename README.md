@@ -67,13 +67,13 @@ Nerfs em geral (não dano)
 	Arme[1]: 1MP (Petrificar) dano abusivo.
 	Arme[2]: Jump Attack has higher Knock back.
 	Arme[1;4]: Bola de Fogo pode ser destruída batendo nela.
-	Lass[1]: Lass extremamente seguro em pvp (nerf Dança das Adagas; nerf Corrida Z baixo; nerf hitlag).
+	Lass[1]: Lass extremamente seguro em pvp (nerf em Dança das Adagas; nerf em Corrida Z baixo; nerf em stun).
 	Lass[1]: Traps have 3 sec cooltime.
 	Lass[4]: Spamming Z up Combo Decreases the knock up.
-	Edel: stun excessivo no ataque de pistola.	
+	Edel: stun excessivo no ataque de pistola.
 	Mari[1]: spam de skills.
 	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos)
-	Veigas: 1MP sem counter (atração + one hit).
+	Veigas: 1AP (Frenesi das Trevas). Adicionar counter ou reduzir dano.
 	Uno: Back Dash Attack1 has only Stun , Back Dash Attack2 has now Knockdown.
 	
 	
