@@ -63,11 +63,13 @@ Nerfs em geral (não dano)
 =========================	
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos. (Proposta:-20% Hitbox e -20% RecMP).
 	Arme[1;4]: Bola de Fogo pode ser destruída batendo nela.
-	Lass[1]: Lass extremamente seguro em pvp (nerf em Dança das Adagas; nerf em Corrida Z baixo; nerf em stun).
+	Lass[1]: Dança das Adagas não dá chance do openente pegar o Lass.
+	Lass[1]: Aumentar hitlag para que não fuja tão fácil quando pego.
 	Edel: stun excessivo no ataque de pistola?
 	Mari[1]: spam de skills?
 	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos)
 	Veigas: 1AP (Frenesi das Trevas). Adicionar counter ou reduzir dano.
+	Veigas: Aumentar hitlag para que não fuja tão fácil quando pego.
 	Uno: Back Dash Attack1 has only Stun , Back Dash Attack2 has now Knockdown.
 		
 Buffs em geral (não dano)
