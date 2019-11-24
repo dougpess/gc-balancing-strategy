@@ -5,7 +5,7 @@ Roteiro
 	- combos infinitos<br />
 	- incoerências visuais<br />
 	- imunidade na ofensiva<br />
-	- delay em skills de escudo<br />
+	- delay em skills de escudo?<br />
 	- Spam/Gameplay tóxico<br />
 	- nerfs em geral (não dano)<br />
 	- buffs em geral (não dano)<br />
