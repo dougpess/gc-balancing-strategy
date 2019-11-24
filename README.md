@@ -76,6 +76,6 @@ Buffs em geral (não dano)
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
 	Elesis[2]: Stun aéreo para 2MP.
 	Elesis[2]: Stun aéreo para os primeiros 2 hits de Z Combo.
-	Elesis[3]: Adiciona 0,5 seg Hyperarmor para o salto para baixo Ataque.
+	Elesis[3]: Adicionar hiperarmadura para Baixo Z depois do pulo.
 	Elesis[3]: Adicionar efeito knock up em 2MP.
 	Arme: Diminuição do hitstun com intenção de dificultar combos infinitos.
