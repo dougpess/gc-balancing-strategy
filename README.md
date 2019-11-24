@@ -70,12 +70,9 @@ Nerfs em geral (não dano)
 		
 Buffs em geral (não dano)
 =========================	
-	Elesis: Hyper Armadura dá +15% de Defesa.
 	Elesis: Habilidade da ST (Provocar) em todas as classes.
-	Elesis[1]: MP1 (Corte Incandecente nv1) mais stun, inimigos não mais podem escapar.
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
 	Elesis[2]: Stun aéreo para 2MP.
-	Elesis[2]: Stun aéreo para os primeiros 2 hits de Z Combo.
 	Elesis[3]: Adicionar hiperarmadura para Baixo Z depois do pulo.
 	Elesis[3]: Adicionar efeito knock up em 2MP.
 	Arme: Diminuição do hitstun com intenção de dificultar combos infinitos.
