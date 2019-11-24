@@ -33,7 +33,6 @@ Incoerências visuais
 	Sieg[4]: Imunidade excessiva em levantar-se atacando.
 	Zero: Imunidade excessiva em rolamento.
 	Uno: Hitbox abusiva em 1MP.
-	Lire[2]: Imunidade excessiva em Dash.
 
 Imunidade na ofensiva (trocar para hiper armadura)
 ==================================================
