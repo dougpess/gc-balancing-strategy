@@ -1,11 +1,11 @@
 Roteiro
 =======
 <b>Fase 1</b><br />
-	- Bugs<br />
-	- combos infinitos<br />
-	- incoerências visuais<br />
-	- imunidade na ofensiva<br />
-	- Spam/Gameplay tóxico<br />
+	- Correção de Bugs<br />
+	- Remoção de combos infinitos fáceis<br />
+	- Correção de incoerências visuais<br />
+	- Trocar imunidade por hiper armadura em ataques ofensivos<br />
+	- Enfraquecer ataques de Spamming<br />
 	- nerfs em geral (não dano)<br />
 	- buffs em geral (não dano)<br />
 	
@@ -45,8 +45,8 @@ Trocar imunidade por hiper armadura em ataques ofensivos
 	Azin: imunidade em ZXZZ durante a Corrida.
 	Jin[4]: imunidade em Garça Ascendente.
 	
-Enfraquecer o Spamming
-======================
+Enfraquecer ataques de Spamming
+===============================
 	Mari[1]: spam de habilidades?
 	Arme[2]: spam de ataque no pulo.
 	Sieg[1]: spam ataque no pulo.
