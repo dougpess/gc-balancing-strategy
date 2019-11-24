@@ -13,22 +13,22 @@ Roteiro
 	- reworks de habilidades/skills<br />
 	- buffs/nerfs de dano em skills<br />
 
-Bugs
-====
+Consertar Bugs
+==============
 	Elesis: Não consegue usar skills enquanto Def Mágica em cooldown.
 	Elesis[4]: Conjuração da 4MP falha quando, 1) é conjurada com alvos no mapa mas se os alvos morrem ou desaparecem antes da conjuração ser completada, ela falha;
 	Elesis[4]: Conjuração da 4MP falha quando, 2) é atingida por um ataque perseguidor antes da conjuração ser completada (Kamiki/Gadozen).
 	Lin: A passiva Fortalecer Habilidades parece não aumentar o dano.
 
-Combos infinitos
-================
+Remover combos infinitos
+========================
 	Arme[4]: Agarrões infinitos?
 	Mari[4]: Agarrões infinitos?
-	Jin[3]: Dragão Crescente infinito.
+	Jin[3]: Dragão Crescente infinito?
 	Dio: Z Combo infinito.
 
-Incoerências visuais
-====================
+Consertar incoerências visuais
+==============================
 	Lass[4]: Pode ser agarrado ou usar skills após o teleporte. (Add Invurnerability and Skill Block on Teleport)
 	Sieg[4]: Imunidade excessiva em levantar-se atacando.
 	Zero: Imunidade excessiva em rolamento.
