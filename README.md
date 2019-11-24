@@ -40,7 +40,7 @@ Imunidade na ofensiva (trocar para hiper armadura)
 ==================================================
 	Arme[1]: imunidade em Cima durante Z Combo.
 	Arme[2]: imunidade em Ataque na Corrida.
-	Amy[4]: imunidade em Baixo Z durante o pulo.
+	Amy[4]: imunidade em Ataque no Mergulho.
 	Holy: imunidade em Ataque na Corrida usando Aura de Ataque.
 	Veigas: imunidade em Recuo durante Z Combo.
 	Azin: imunidade em ZXZZ durante a Corrida.
