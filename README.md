@@ -5,7 +5,6 @@ Roteiro
 	- combos infinitos<br />
 	- incoerências visuais<br />
 	- imunidade na ofensiva<br />
-	- delay em skills de escudo?<br />
 	- Spam/Gameplay tóxico<br />
 	- nerfs em geral (não dano)<br />
 	- buffs em geral (não dano)<br />
@@ -46,9 +45,6 @@ Imunidade na ofensiva (trocar para hiper armadura)
 	Azin: imunidade em ZXZZ durante a Corrida.
 	Jin[4]: imunidade em Garça Ascendente.
 		
-Delay em skills de escudo?
-==========================
-
 Spamming/Gameplay tóxico
 ========================
 	Mari[1]: spam de contrução de máquinas.
