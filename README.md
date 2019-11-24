@@ -72,6 +72,7 @@ Buffs em geral (não dano)
 =========================	
 	Elesis: Habilidade da ST (Provocar) em todas as classes.
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
+	Elesis[1]: Stun aéreo para o primeiro hit de Onda Flamejante Nv1.
 	Elesis[2]: Stun aéreo para 2MP.
 	Elesis[3]: Adicionar hiperarmadura para Baixo Z depois do pulo.
 	Elesis[3]: Adicionar efeito knock up em 2MP.
