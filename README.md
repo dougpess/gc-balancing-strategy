@@ -34,8 +34,8 @@ Incoerências visuais
 	Zero: Imunidade excessiva em rolamento.
 	Uno: Hitbox abusiva em 1MP.
 
-Imunidade na ofensiva (trocar para hiper armadura)
-==================================================
+Imunidade em ataque ofensivo (trocar para hiper armadura)
+=========================================================
 	Arme[1]: imunidade em Cima durante Z Combo.
 	Arme[2]: imunidade em Ataque na Corrida.
 	Amy[4]: imunidade em Ataque no Mergulho.
