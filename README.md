@@ -13,30 +13,30 @@ Roteiro
 	- reworks de habilidades/skills<br />
 	- buffs/nerfs de dano em skills<br />
 
-Consertar Bugs
-==============
+Correção de Bugs
+================
 	Elesis: Não consegue usar skills enquanto Def Mágica em cooldown.
 	Elesis[4]: Conjuração da 4MP falha quando
 		1) é conjurada com alvos no mapa mas se os alvos morrem ou desaparecem antes da conjuração ser completada, ela falha;
 		2) é atingida por um ataque perseguidor antes da conjuração ser completada (Kamiki/Gadozen).
 	Lin: A passiva Fortalecer Habilidades parece não aumentar o dano.
 
-Remover combos infinitos fáceis
-===============================
+Remoção de combos infinitos fáceis
+==================================
 	Arme[4]: Agarrões infinitos?
 	Mari[4]: Agarrões infinitos?
 	Jin[3]: Dragão Crescente infinito?
 	Dio: Z Combo infinito.
 
-Consertar incoerências visuais
-==============================
+Correção de incoerências visuais
+================================
 	Lass[4]: Pode ser agarrado ou usar skills após o teleporte. (Add Invurnerability and Skill Block on Teleport)
 	Sieg[4]: Imunidade excessiva em levantar-se atacando.
 	Zero: Imunidade excessiva em rolamento.
 	Uno: Hitbox abusiva em 1MP.
 
-Remover imunidade em ataque ofensivo (trocar por hiper armadura)
-================================================================
+Trocar imunidade por hiper armadura em ataques ofensivos
+========================================================
 	Arme[1]: imunidade em Cima durante Z Combo.
 	Arme[2]: imunidade em Ataque na Corrida.
 	Amy[4]: imunidade em Ataque no Mergulho.
