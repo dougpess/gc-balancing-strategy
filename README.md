@@ -48,7 +48,6 @@ Imunidade na ofensiva (trocar para hiper armadura)
 Spamming/Gameplay tóxico
 ========================
 	Mari[1]: spam de contrução de máquinas.
-	Mari[2]: ataque no pulo.
 	Arme[2]: ataque no pulo.
 	Lass[3]: ataque no pulo.	
 	Sieg[1]: ataque no pulo.
@@ -59,6 +58,7 @@ Nerfs em geral (não dano)
 =========================	
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos. (Proposta:-20% Hitbox e -20% RecMP).
 	Arme[1;4]: Bola de Fogo pode ser destruída batendo nela.
+	Mari[2]: ataque no pulo.
 	Lass[1]: Dança das Adagas não dá chance do openente pegar o Lass.
 	Lass[1]: Aumentar hitlag para que não fuja tão fácil quando pego.
 	Edel: stun excessivo no ataque de pistola?
