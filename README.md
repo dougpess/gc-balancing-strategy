@@ -1,11 +1,11 @@
 Roteiro
-=======
+-------
 <b>Fase 1</b><br />
 	- Correção de Bugs<br />
 	- Remoção de combos infinitos fáceis<br />
 	- Correção de incoerências visuais<br />
-	- Trocar imunidade por hiper armadura em ataques ofensivos<br />
-	- Enfraquecer ataques de Spamming<br />
+	- Troca da imunidade por hiper armadura em ataques ofensivos<br />
+	- Enfraquecimento de jogadas de Spamming<br />
 	- nerfs em geral (não dano)<br />
 	- buffs em geral (não dano)<br />
 	
@@ -38,7 +38,7 @@ Correção de incoerências visuais
 	Zero: Imunidade excessiva em rolamento.
 	Uno: Hitbox abusiva em 1MP.
 
-Troca de imunidade por hiper armadura em ataques ofensivos
+Troca da imunidade por hiper armadura em ataques ofensivos
 ----------------------------------------------------------
 	Arme[1]: imunidade em Cima durante Z Combo.
 	Arme[2]: imunidade em Ataque na Corrida.
@@ -48,19 +48,18 @@ Troca de imunidade por hiper armadura em ataques ofensivos
 	Azin: imunidade em ZXZZ durante a Corrida.
 	Jin[4]: imunidade em Garça Ascendente.
 	
-Enfraquecimento de ataques de Spam
-----------------------------------
+Enfraquecimento de jogadas de Spamming
+--------------------------------------
 	Mari[1]: spam de habilidades?
 	Arme[2]: spam de ataque no pulo.
 	Sieg[1]: spam ataque no pulo.
+	Lass[3]: ataque no pulo.
 	Ryan: spam de sementes selvagens.
-	
+		
 Nerfs em geral (não dano)
 -------------------------
-	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos. (Proposta:-20% Hitbox e -20% RecMP).
+	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos.
 	Arme[1;4]: Bola de Fogo pode ser destruída batendo nela.
-	Lass[1]: Dança das Adagas não dá chance do openente pegar o Lass.
-	Lass[3]: ataque no pulo.
 	Lass[1]: Aumentar hitlag para que não fuja tão fácil quando pego.
 	Mari[1]: spam de contrução de máquinas.
 	Mari[2]: ataque no pulo.
