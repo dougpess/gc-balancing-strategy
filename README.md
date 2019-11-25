@@ -77,15 +77,14 @@ Nerfs em geral (não dano)
 FASE 2
 ======
 
-Buffs/Melhorias (não dano)
---------------------------
+Melhorias (não dano)
+--------------------
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
 	Elesis[1]: Adicionar Stun aéreo para o primeiro hit de Onda Flamejante Nv1.
 	Elesis[2]: Adicionar Stun aéreo para 2MP.
 	Elesis[3]: Adicionar hiperarmadura para Baixo Z depois do pulo.
 	Elesis[3]: Adicionar efeito knock up em 2MP.
 	Elesis[3]: Adicionar efeito knock up em 3MP.
-	Arme: Diminuição do hitstun com o intuito de dificultar combos infinitos.
 	
 Buffs de Dano
 -------------
