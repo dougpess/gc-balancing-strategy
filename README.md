@@ -48,7 +48,6 @@ Troca da imunidade por hiper armadura em ataques ofensivos
 	Arme[2]: imunidade em Ataque na Corrida.
 	Amy[4]: imunidade em Ataque no Mergulho.
 	Holy: imunidade em Ataque na Corrida usando Aura de Ataque.
-	Veigas: imunidade em Recuo durante Z Combo.
 	Azin: imunidade em ZXZZ durante a Corrida.
 	Jin[4]: imunidade em Garça Ascendente.
 	
@@ -71,8 +70,6 @@ Nerfs em geral (não dano)
 	Veigas: 1AP (Frenesi das Trevas). Adicionar counter ou reduzir dano.
 	Veigas: Aumentar hitlag para que não fuja tão fácil quando pego.
 	Uno: Back Dash Attack1 has only Stun , Back Dash Attack2 has now Knockdown.
-		
-
 
 FASE 2
 ======
