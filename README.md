@@ -5,8 +5,8 @@ Roteiro
 	- Correção de incoerências visuais<br />
 	- Remoção de combos infinitos fáceis<br />
 	- Troca da imunidade por hiper armadura em ataques ofensivos<br />
-	- Enfraquecimento de jogadas de Spamming<br />
-	- Enfraquecimentos em geral (não dano)<br />
+	- Nerf em jogadas de Spamming<br />
+	- Nerf em geral (não dano)<br />
 	
 <b>Fase 2</b><br />
 	- Melhorias (não dano)
