@@ -22,9 +22,9 @@ FASE 1
 Consertar Bugs
 --------------
 	Elesis: Não consegue usar skills enquanto Def Mágica em cooldown.
-	Elesis[4]: 4MP falha quando
-		1) é conjurada com alvos no mapa mas se os alvos morrem ou desaparecem antes do mini tornado ser lançado, então falhará;
-		2) é atingida por um ataque perseguidor antes do mini tornado ser lançado (Kamiki/Gadozen).
+	Elesis[4]: 4MP falhará quando
+		1) é conjurada com alvos no mapa mas se os alvos morrem ou desaparecem antes do mini tornado ser liberado;
+		2) é Elesis é atingida por ataque perseguidor (Kamiki, Gadozen) antes do mini tornado ser liberado.
 	Lin: A passiva Fortalecer Habilidades parece não ter efeito.
 
 Consertar incoerências visuais
