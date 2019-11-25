@@ -6,8 +6,7 @@ Roteiro
 	- Correção de incoerências visuais<br />
 	- Troca da imunidade por hiper armadura em ataques ofensivos<br />
 	- Enfraquecimento de jogadas de Spamming<br />
-	- nerfs em geral (não dano)<br />
-	- buffs em geral (não dano)<br />
+	- Enfraquecimentos em geral (não dano)<br />
 	
 <b>Fase 2</b><br />
 	- Melhorias (não dano)
@@ -60,8 +59,8 @@ Enfraquecimento de jogadas de Spamming
 	Ryan: spam de sementes selvagens.
 	Ronan: Choque Rápido?
 		
-Nerfs em geral (não dano)
--------------------------
+Enfraquecimentos em geral (não dano)
+------------------------------------
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos.
 	Arme[1;4]: Bola de Fogo pode ser destruída batendo nela.
 	Mari[1]: spam de contrução de máquinas.
