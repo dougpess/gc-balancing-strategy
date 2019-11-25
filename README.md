@@ -79,7 +79,7 @@ Buffs em geral (não dano)
 	Elesis[3]: Adicionar hiperarmadura para Baixo Z depois do pulo.
 	Elesis[3]: Adicionar efeito knock up em 2MP.
 	Elesis[3]: Adicionar efeito knock up em 3MP.
-	Arme: Diminuição do hitstun com intenção de dificultar combos infinitos.
+	Arme: Diminuição do hitstun com o intuito de dificultar combos infinitos.
 
 FASE 2
 ======
