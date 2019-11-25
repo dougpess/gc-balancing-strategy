@@ -1,7 +1,7 @@
 Roteiro
 -------
 <b>Fase 1</b><br />
-	- Correção de Bugs<br />
+	- Correção de bugs<br />
 	- Remoção de combos infinitos fáceis<br />
 	- Correção de incoerências visuais<br />
 	- Troca da imunidade por hiper armadura em ataques ofensivos<br />
@@ -82,11 +82,11 @@ Melhorias (não dano)
 	Elesis[3]: Adicionar efeito knock up em 2MP.
 	Elesis[3]: Adicionar efeito knock up em 3MP.
 	
-Buffs de Dano
+Buffs de dano
 -------------
 	Elesis[1]: Aumentar dano de 2MP (Arco Fatal Nv1).
 
-Nerfs de Dano
+Nerfs de dano
 -------------
 
 
