@@ -83,6 +83,6 @@ Buffs em geral (não dano)
 
 FASE 2
 ======
-	Elesis: Adicionar ST (Provocar) em todas as classes.
-	Elesis[1]: Dano excessivamente baixo em 2MP (Arco Fatal Nv1) .
+	Elesis: Adicionar o talento Provocar a todas as classes.
+	Elesis[1]: Dano excessivamente baixo em 2MP (Arco Fatal Nv1).
 	
