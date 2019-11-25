@@ -83,6 +83,6 @@ Buffs em geral (não dano)
 
 FASE 2
 ======
-
+	Elesis: Adicionar ST (Provocar) em todas as classes.
 	Elesis[1]: 2MP (Arco Fatal Nv1) causando dano menor que 1MP.
-	Elesis: Habilidade da ST (Provocar) em todas as classes.
+	
