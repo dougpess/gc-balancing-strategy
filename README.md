@@ -85,4 +85,4 @@ Buffs em geral (não dano)
 FASE 2
 ======
 
-	Elesis[1]: 2MP (Arco Fatal Nv1) causando dano de 1MP.
+	Elesis[1]: 2MP (Arco Fatal Nv1) causando dano menor que 1MP.
