@@ -73,7 +73,6 @@ Nerfs em geral (não dano)
 		
 Buffs em geral (não dano)
 -------------------------
-	Elesis: Habilidade da ST (Provocar) em todas as classes.
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
 	Elesis[1]:Adicionar Stun aéreo para o primeiro hit de Onda Flamejante Nv1.
 	Elesis[2]: Adicionar Stun aéreo para 2MP.
@@ -86,3 +85,4 @@ FASE 2
 ======
 
 	Elesis[1]: 2MP (Arco Fatal Nv1) causando dano menor que 1MP.
+	Elesis: Habilidade da ST (Provocar) em todas as classes.
