@@ -55,16 +55,15 @@ Enfraquecimento de jogadas de Spamming
 	Sieg[1]: spam ataque no pulo.
 	Lass[3]: ataque no pulo.
 	Ryan: spam de sementes selvagens.
+	Ronan: Choque Rápido?
 		
 Nerfs em geral (não dano)
 -------------------------
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos.
 	Arme[1;4]: Bola de Fogo pode ser destruída batendo nela.
-	Lass[1]: Aumentar hitlag para que não fuja tão fácil quando pego.
 	Mari[1]: spam de contrução de máquinas.
 	Mari[2]: ataque no pulo.
-	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos)
-	Ronan: Choque rápido.
+	Ronan[3]: 2MP (Defesa Mágica) [efeito atual: escudo de 6 hits por 25 segundos].
 	Veigas: 1AP (Frenesi das Trevas). Adicionar counter ou reduzir dano.
 	Veigas: Aumentar hitlag para que não fuja tão fácil quando pego.
 	Uno: Back Dash Attack1 has only Stun , Back Dash Attack2 has now Knockdown.
