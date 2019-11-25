@@ -2,8 +2,8 @@ Roteiro
 -------
 <b>Fase 1</b><br />
 	- Correção de bugs<br />
-	- Remoção de combos infinitos fáceis<br />
 	- Correção de incoerências visuais<br />
+	- Remoção de combos infinitos fáceis<br />
 	- Troca da imunidade por hiper armadura em ataques ofensivos<br />
 	- Enfraquecimento de jogadas de Spamming<br />
 	- Enfraquecimentos em geral (não dano)<br />
@@ -27,19 +27,19 @@ Correção de Bugs
 		2) é atingida por um ataque perseguidor antes da conjuração ser completada (Kamiki/Gadozen).
 	Lin: A passiva Fortalecer Habilidades parece não ter efeito.
 
-Remoção de combos infinitos fáceis
-----------------------------------
-	Arme[4]: Agarrões infinitos?
-	Mari[4]: Agarrões infinitos?
-	Jin[3]: Dragão Crescente infinito.
-	Dio: Z Combo infinito.
-
 Correção de incoerências visuais
 --------------------------------
 	Lass[4]: Pode ser agarrado ou usar skills após o teleporte. (Add Invurnerability and Skill Block on Teleport)
 	Sieg[4]: Imunidade excessiva em levantar-se atacando.
 	Zero: Imunidade excessiva em rolamento.
 	Uno: Hitbox abusiva em 1MP.
+
+Remoção de combos infinitos fáceis
+----------------------------------
+	Arme[4]: Agarrões infinitos?
+	Mari[4]: Agarrões infinitos?
+	Jin[3]: Dragão Crescente infinito.
+	Dio: Z Combo infinito.
 
 Troca da imunidade por hiper armadura em ataques ofensivos
 ----------------------------------------------------------
