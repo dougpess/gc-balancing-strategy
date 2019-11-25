@@ -28,7 +28,7 @@ Remoção de combos infinitos fáceis
 ----------------------------------
 	Arme[4]: Agarrões infinitos?
 	Mari[4]: Agarrões infinitos?
-	Jin[3]: Dragão Crescente infinito?
+	Jin[3]: Dragão Crescente infinito.
 	Dio: Z Combo infinito.
 
 Correção de incoerências visuais
