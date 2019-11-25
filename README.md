@@ -80,5 +80,14 @@ Buffs em geral (não dano)
 
 FASE 2
 ======
+
+Reworks
+-------
 	Elesis: Adicionar o talento Provocar a todas as classes.
-	Elesis[1]: Dano excessivamente baixo em 2MP (Arco Fatal Nv1).
+
+Buffs de Dano
+-------------
+	Elesis[1]: Aumentar dano de 2MP (Arco Fatal Nv1).
+	
+Nerfs de Dano
+-------------
