@@ -62,7 +62,6 @@ Nerfs em geral (não dano)
 	Lass[1]: Dança das Adagas não dá chance do openente pegar o Lass.
 	Lass[3]: ataque no pulo.
 	Lass[1]: Aumentar hitlag para que não fuja tão fácil quando pego.
-	Edel: stun excessivo no ataque de pistola?
 	Mari[1]: spam de contrução de máquinas.
 	Mari[2]: ataque no pulo.
 	Ronan[3]: 2MP (Defesa Mágica). Original[6 hits ou 25 segundos]. (Proposta: 5 hits ou 20 segundos)
@@ -85,4 +84,3 @@ FASE 2
 ======
 	Elesis: Adicionar o talento Provocar a todas as classes.
 	Elesis[1]: Dano excessivamente baixo em 2MP (Arco Fatal Nv1).
-	
