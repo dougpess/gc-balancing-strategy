@@ -10,8 +10,12 @@ Roteiro
 	- buffs em geral (não dano)<br />
 	
 <b>Fase 2</b><br />
+	Buffs/melhorias (não dano)
 	- reworks de habilidades/skills<br />
 	- buffs/nerfs de dano em skills<br />
+
+<b>Fase 3</b>
+	- Retrabalho de personagens
 
 FASE 1
 ======
@@ -73,7 +77,7 @@ Nerfs em geral (não dano)
 FASE 2
 ======
 
-Melhorias (não dano)
+Buffs/Melhorias (não dano)
 --------------------
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
 	Elesis[1]: Adicionar Stun aéreo para o primeiro hit de Onda Flamejante Nv1.
