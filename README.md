@@ -13,6 +13,9 @@ Roteiro
 	- reworks de habilidades/skills<br />
 	- buffs/nerfs de dano em skills<br />
 
+FASE 1
+======
+
 Correção de Bugs
 ================
 	Elesis: Não consegue usar skills enquanto Def Mágica em cooldown.
