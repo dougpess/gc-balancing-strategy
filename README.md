@@ -68,8 +68,13 @@ Nerfs em geral (não dano)
 	Veigas: Aumentar hitlag para que não fuja tão fácil quando pego.
 	Uno: Back Dash Attack1 has only Stun , Back Dash Attack2 has now Knockdown.
 		
-Buffs em geral (não dano)
--------------------------
+
+
+FASE 2
+======
+
+Melhorias (não dano)
+--------------------
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
 	Elesis[1]: Adicionar Stun aéreo para o primeiro hit de Onda Flamejante Nv1.
 	Elesis[2]: Adicionar Stun aéreo para 2MP.
@@ -77,17 +82,18 @@ Buffs em geral (não dano)
 	Elesis[3]: Adicionar efeito knock up em 2MP.
 	Elesis[3]: Adicionar efeito knock up em 3MP.
 	Arme: Diminuição do hitstun com o intuito de dificultar combos infinitos.
-
-FASE 2
-======
-
-Reworks
--------
-	Elesis: Adicionar o talento Provocar a todas as classes.
-
+	
 Buffs de Dano
 -------------
 	Elesis[1]: Aumentar dano de 2MP (Arco Fatal Nv1).
-	
+
 Nerfs de Dano
 -------------
+
+
+FASE 3
+======
+
+Retrabalho de personagens
+-------------------------
+	Elesis: Adicionar o talento Provocar a todas as classes.
