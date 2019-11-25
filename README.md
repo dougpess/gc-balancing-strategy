@@ -74,7 +74,7 @@ Nerfs em geral (não dano)
 Buffs em geral (não dano)
 -------------------------
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
-	Elesis[1]:Adicionar Stun aéreo para o primeiro hit de Onda Flamejante Nv1.
+	Elesis[1]: Adicionar Stun aéreo para o primeiro hit de Onda Flamejante Nv1.
 	Elesis[2]: Adicionar Stun aéreo para 2MP.
 	Elesis[3]: Adicionar hiperarmadura para Baixo Z depois do pulo.
 	Elesis[3]: Adicionar efeito knock up em 2MP.
@@ -84,5 +84,5 @@ Buffs em geral (não dano)
 FASE 2
 ======
 	Elesis: Adicionar ST (Provocar) em todas as classes.
-	Elesis[1]: 2MP (Arco Fatal Nv1) causando dano menor que 1MP.
+	Elesis[1]: Dano excessivamente baixo em 2MP (Arco Fatal Nv1) .
 	
