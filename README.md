@@ -48,8 +48,8 @@ Trocar imunidade por hiper armadura em ataques ofensivos
 	Azin: imunidade em ZXZZ durante a Corrida.
 	Jin[4]: imunidade em Garça Ascendente.
 	
-Enfraquecer ataques de Spamming
--------------------------------
+Enfraquecer ataques de Spam
+---------------------------
 	Mari[1]: spam de habilidades?
 	Arme[2]: spam de ataque no pulo.
 	Sieg[1]: spam ataque no pulo.
