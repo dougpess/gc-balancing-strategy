@@ -77,3 +77,8 @@ Buffs em geral (não dano)
 	Elesis[3]: Adicionar hiperarmadura para Baixo Z depois do pulo.
 	Elesis[3]: Adicionar efeito knock up em 2MP.
 	Arme: Diminuição do hitstun com intenção de dificultar combos infinitos.
+
+Fase 2
+======
+
+	Elesis[1]: 2MP (Arco Fatal Nv1) causando dano de 1MP.
