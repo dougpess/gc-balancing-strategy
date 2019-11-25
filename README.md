@@ -17,7 +17,7 @@ FASE 1
 ======
 
 Correção de Bugs
-================
+----------------
 	Elesis: Não consegue usar skills enquanto Def Mágica em cooldown.
 	Elesis[4]: Conjuração da 4MP falha quando
 		1) é conjurada com alvos no mapa mas se os alvos morrem ou desaparecem antes da conjuração ser completada, ela falha;
@@ -25,21 +25,21 @@ Correção de Bugs
 	Lin: A passiva Fortalecer Habilidades parece não aumentar o dano.
 
 Remoção de combos infinitos fáceis
-==================================
+----------------------------------
 	Arme[4]: Agarrões infinitos?
 	Mari[4]: Agarrões infinitos?
 	Jin[3]: Dragão Crescente infinito?
 	Dio: Z Combo infinito.
 
 Correção de incoerências visuais
-================================
+--------------------------------
 	Lass[4]: Pode ser agarrado ou usar skills após o teleporte. (Add Invurnerability and Skill Block on Teleport)
 	Sieg[4]: Imunidade excessiva em levantar-se atacando.
 	Zero: Imunidade excessiva em rolamento.
 	Uno: Hitbox abusiva em 1MP.
 
 Trocar imunidade por hiper armadura em ataques ofensivos
-========================================================
+--------------------------------------------------------
 	Arme[1]: imunidade em Cima durante Z Combo.
 	Arme[2]: imunidade em Ataque na Corrida.
 	Amy[4]: imunidade em Ataque no Mergulho.
@@ -49,14 +49,14 @@ Trocar imunidade por hiper armadura em ataques ofensivos
 	Jin[4]: imunidade em Garça Ascendente.
 	
 Enfraquecer ataques de Spamming
-===============================
+-------------------------------
 	Mari[1]: spam de habilidades?
 	Arme[2]: spam de ataque no pulo.
 	Sieg[1]: spam ataque no pulo.
 	Ryan: spam de sementes selvagens.
 	
 Nerfs em geral (não dano)
-=========================
+-------------------------
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos. (Proposta:-20% Hitbox e -20% RecMP).
 	Arme[1;4]: Bola de Fogo pode ser destruída batendo nela.
 	Lass[1]: Dança das Adagas não dá chance do openente pegar o Lass.
@@ -72,7 +72,7 @@ Nerfs em geral (não dano)
 	Uno: Back Dash Attack1 has only Stun , Back Dash Attack2 has now Knockdown.
 		
 Buffs em geral (não dano)
-=========================	
+-------------------------
 	Elesis: Habilidade da ST (Provocar) em todas as classes.
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
 	Elesis[1]: Stun aéreo para o primeiro hit de Onda Flamejante Nv1.
