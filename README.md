@@ -50,8 +50,8 @@ Trocar imunidade por hiper armadura em técnicas ofensivas
 	Azin: imunidade em ZXZZ durante a Corrida.
 	Jin[4]: imunidade em Garça Ascendente.
 	
-Nerfar jogadas de Spamming
---------------------------
+Nerfs em jogadas de Spamming
+----------------------------
 	Mari[1]: spams diversos.
 	Mari[2]: spam de ataque no pulo.
 	Arme[2]: spam de ataque no pulo.
@@ -83,11 +83,7 @@ Buffs diversos (não dano)
 	
 Buffs de dano
 -------------
-	Elesis[1]: Aumentar dano de 2MP (Arco Fatal Nv1).
-
-Nerfs de dano
--------------
-
+	Elesis[1]: 2MP (Arco Fatal Nv1) com dano extremamente baixo.
 
 FASE 3
 ======
