@@ -19,7 +19,7 @@ Roteiro
 FASE 1
 ======
 
-Consertar Bugs
+Resolver bugs
 --------------
 	Elesis: Não consegue usar skills enquanto Def Mágica em cooldown.
 	Elesis[4]: 4MP falhará quando
@@ -27,15 +27,15 @@ Consertar Bugs
 		2) um ataque perseguidor (da Kamiki ou Gadozen, por exemplo) alcança a Elesis antes do mini tornado ser liberado.
 	Lin: A passiva Fortalecer Habilidades parece não ter efeito.
 
-Consertar incoerências visuais
-------------------------------
+Resolver Inconsistências visuais
+--------------------------------
 	Lass[4]: Pode ser agarrado ou usar skills após o teleporte. (Add Invurnerability and Skill Block on Teleport)
 	Sieg[4]: Imunidade excessiva em levantar-se atacando.
 	Zero: Imunidade excessiva em rolamento.
 	Uno: Hitbox abusiva em 1MP.
 
-Remover combos infinitos fáceis
--------------------------------
+Resolver combos infinitos
+-------------------------
 	Arme[4]: Agarrões seguidos?
 	Mari[4]: Agarrões seguidos?
 	Jin[3]: Dragão Crescente infinito.
