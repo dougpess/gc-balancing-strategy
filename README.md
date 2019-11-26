@@ -27,7 +27,7 @@ Resolver bugs
 		2) um ataque perseguidor (da Kamiki ou Gadozen, por exemplo) alcança a Elesis antes do mini tornado ser liberado.
 	Lin: A passiva Fortalecer Habilidades parece não ter efeito.
 
-Resolver Inconsistências visuais
+Resolver inconsistências visuais
 --------------------------------
 	Lass[4]: Pode ser agarrado ou usar skills após o teleporte. (Add Invurnerability and Skill Block on Teleport)
 	Sieg[4]: Imunidade excessiva em levantar-se atacando.
@@ -41,8 +41,8 @@ Resolver combos infinitos
 	Jin[3]: Dragão Crescente infinito.
 	Dio: Z Combo infinito.
 
-Trocar imunidade por hiper armadura em ataques ofensivos
---------------------------------------------------------
+Trocar imunidade por hiper armadura em técnicas ofensivas
+---------------------------------------------------------
 	Arme[1]: imunidade em Cima durante Z Combo.
 	Arme[2]: imunidade em Ataque na Corrida.
 	Amy[4]: imunidade em Ataque no Mergulho.
@@ -50,8 +50,8 @@ Trocar imunidade por hiper armadura em ataques ofensivos
 	Azin: imunidade em ZXZZ durante a Corrida.
 	Jin[4]: imunidade em Garça Ascendente.
 	
-Nerf em jogadas de Spamming
----------------------------
+Nerfar jogadas de Spamming
+--------------------------
 	Mari[1]: spams diversos.
 	Mari[2]: spam de ataque no pulo.
 	Arme[2]: spam de ataque no pulo.
@@ -60,8 +60,8 @@ Nerf em jogadas de Spamming
 	Ryan: spam de sementes selvagens.
 	Ronan: Choque Rápido?
 
-Nerf em geral (não dano)
-------------------------
+Nerfs diversos (não dano)
+-------------------------
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos.
 	Ronan[3]: 2MP (Defesa Mágica) [efeito atual: escudo de 6 hits por 25 segundos].
 	Lass[1]: Trap.
@@ -71,8 +71,8 @@ Nerf em geral (não dano)
 FASE 2
 ======
 
-Melhorias (não dano)
---------------------
+Buffs diversos (não dano)
+-------------------------
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
 	Elesis[1]: Adicionar Stun aéreo no primeiro hit de Onda Flamejante Nv1.
 	Elesis[2]: Adicionar Stun aéreo em 2MP.
