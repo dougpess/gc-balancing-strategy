@@ -15,8 +15,9 @@ Roteiro
 
 <b>Fase 3</b><br />
 	- Retrabalho de personagens<br />
+
 <br />
-<br />
+
 FASE 1
 ======
 
