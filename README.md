@@ -1,7 +1,7 @@
 ROTEIRO
 -------
 
-<b>Fase 1<br />
+<b>Fase 1</b><br />
 	- Resolver bugs<br />
 	- Resolver inconsistências visuais<br />
 	- Resolver combos infinitos<br />
@@ -9,11 +9,11 @@ ROTEIRO
 	- Nerfs em jogadas de Spamming<br />
 	- Nerfs diversos (não dano)<br />
 	
-<b>Fase 2<br />
+<b>Fase 2</b><br />
 	- Buffs diversos (não dano)<br />
 	- Buffs de dano<br />
 
-<b>Fase 3<br />
+<b>Fase 3</b><br />
 	- Retrabalho de personagens<br />
 
 FASE 1
