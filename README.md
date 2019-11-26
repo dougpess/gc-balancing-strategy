@@ -67,7 +67,7 @@ Nerfs diversos (não dano)
 -------------------------
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos.
 	Ronan[3]: 2MP (Defesa Mágica) [efeito atual: escudo de 6 hits por 25 segundos].
-	Lass[1]: Trap.
+	Lass[1]: Traps.
 	Veigas: Adicionar counter ou diminuir dano em 1AP (Frenesi das Trevas).
 	Veigas: Aumentar hitstun do personagem.
 
