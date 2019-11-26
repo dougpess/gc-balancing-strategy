@@ -1,23 +1,20 @@
 ROTEIRO
-=======
+-------
 
-Fase 1
-------
-	- Resolver bugs
-	- Resolver inconsistências visuais
-	- Resolver combos infinitos
-	- Trocar imunidade por hiper armadura em técnicas ofensivas
-	- Nerfs em jogadas de Spamming
-	- Nerfs diversos (não dano)
+<b>Fase 1<br />
+	- Resolver bugs<br />
+	- Resolver inconsistências visuais<br />
+	- Resolver combos infinitos<br />
+	- Trocar imunidade por hiper armadura em técnicas ofensivas<br />
+	- Nerfs em jogadas de Spamming<br />
+	- Nerfs diversos (não dano)<br />
 	
-Fase 2
-------
-	- Buffs diversos (não dano)
-	- Buffs de dano
+<b>Fase 2<br />
+	- Buffs diversos (não dano)<br />
+	- Buffs de dano<br />
 
-Fase 3
-------
-	- Retrabalho de personagens
+<b>Fase 3<br />
+	- Retrabalho de personagens<br />
 
 FASE 1
 ======
