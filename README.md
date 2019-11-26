@@ -78,7 +78,6 @@ Buffs diversos (não dano)
 	Elesis[2]: Adicionar Stun aéreo em 2MP.
 	Elesis[3]: Adicionar hiperarmadura em Baixo Z durante o pulo.
 	Elesis[3]: Adicionar efeito knock up em 2MP.
-	Elesis[3]: Adicionar efeito knock up em 3MP.
 	
 Buffs de dano
 -------------
