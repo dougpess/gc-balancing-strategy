@@ -76,7 +76,6 @@ Buffs diversos (não dano)
 	Elesis[1]: Mais invulnerabilidade ao levantar-se atacando.
 	Elesis[1]: Adicionar Stun aéreo no primeiro hit de Onda Flamejante Nv1.
 	Elesis[2]: Adicionar Stun aéreo em 2MP.
-	Elesis[3]: Mais invulnerabilidade em levantar-se atacando.
 	Elesis[3]: Adicionar hiperarmadura em Baixo Z durante o pulo.
 	Elesis[3]: Adicionar efeito knock up em 2MP.
 	Elesis[3]: Adicionar efeito knock up em 3MP.
