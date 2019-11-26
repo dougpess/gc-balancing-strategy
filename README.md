@@ -1,5 +1,6 @@
-Roteiro
+ROTEIRO
 =======
+
 <b>Fase 1</b><br />
 	- Correção de bugs<br />
 	- Correção de incoerências visuais<br />
