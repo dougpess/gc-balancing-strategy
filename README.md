@@ -1,7 +1,8 @@
 ROTEIRO
 =======
 
-<b>Fase 1</b><br />
+Fase 1
+------
 	- Correção de bugs<br />
 	- Correção de incoerências visuais<br />
 	- Remoção de combos infinitos fáceis<br />
@@ -9,7 +10,8 @@ ROTEIRO
 	- Nerf em jogadas de Spamming<br />
 	- Nerf em geral (não dano)<br />
 	
-<b>Fase 2</b><br />
+Fase 2
+------
 	- Melhorias (não dano)
 	- Buffs de Dano<br />
 	- Nerfs de Dano<br />
