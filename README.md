@@ -89,6 +89,6 @@ Buffs de dano
 FASE 3
 ======
 
-Retrabalho de personagens
--------------------------
+Revamp de personagens
+---------------------
 	Elesis: Adicionar o talento Provocar a todas as classes.
