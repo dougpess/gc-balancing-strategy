@@ -3,27 +3,27 @@ ROTEIRO
 
 Fase 1
 ------
-	- Correção de bugs<br />
-	- Correção de incoerências visuais<br />
-	- Remoção de combos infinitos fáceis<br />
-	- Troca da imunidade por hiper armadura em ataques ofensivos<br />
-	- Nerf em jogadas de Spamming<br />
-	- Nerf em geral (não dano)<br />
+	- Resolver bugs
+	- Resolver inconsistências visuais
+	- Resolver combos infinitos
+	- Trocar imunidade por hiper armadura em técnicas ofensivas
+	- Nerfs em jogadas de Spamming
+	- Nerfs diversos (não dano)
 	
 Fase 2
 ------
-	- Melhorias (não dano)
-	- Buffs de Dano<br />
-	- Nerfs de Dano<br />
+	- Buffs diversos (não dano)
+	- Buffs de dano
 
-<b>Fase 3</b><br />
-	- Retrabalho de personagens<br />
+Fase 3
+------
+	- Retrabalho de personagens
 
 FASE 1
 ======
 
 Resolver bugs
---------------
+-------------
 	Elesis: Não consegue usar skills enquanto Def Mágica em cooldown.
 	Elesis[4]: 4MP falhará quando
 		1) é conjurada com alvos no mapa mas se os alvos morrem ou desaparecem antes do mini tornado ser liberado;
