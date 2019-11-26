@@ -52,7 +52,7 @@ Trocar imunidade por hiper armadura em ataques ofensivos
 	
 Nerf em jogadas de Spamming
 ---------------------------
-	Mari[1]: spam de habilidades?
+	Mari[1]: spams diversos.
 	Mari[2]: spam de ataque no pulo.
 	Arme[2]: spam de ataque no pulo.
 	Sieg[1]: spam ataque no pulo.
@@ -63,8 +63,8 @@ Nerf em jogadas de Spamming
 Nerf em geral (não dano)
 ------------------------
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos.
-	Mari[1]: spam de contrução de máquinas.
 	Ronan[3]: 2MP (Defesa Mágica) [efeito atual: escudo de 6 hits por 25 segundos].
+	Lass[1]: armadilha.
 	Veigas: Adicionar counter ou diminuir dano em 1AP (Frenesi das Trevas).
 	Veigas: Aumentar hitstun do personagem.
 
