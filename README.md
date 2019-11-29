@@ -33,6 +33,9 @@ Resolver inconsistências visuais
 --------------------------------
 	Ryan[2]: Hitbox fantasma em Cima Z (costas).
 	Ryan[3]: Hitbox fantasma em Cima Z (costas).
+	Jin[1]: Hitbox fantasma em Cima Z (costas).
+	Mari[3]: Hitbox fantasma em Cima Z (costas).
+	Uno: Hitbox fantasma em Cima Z (costas).
 	Lass[4]: Pode ser agarrado ou usar skills após o teleporte. (Add Invurnerability and Skill Block on Teleport)
 	Sieg[4]: Imunidade excessiva em levantar-se atacando.
 	Zero: Imunidade excessiva em rolamento.
