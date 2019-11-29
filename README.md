@@ -85,7 +85,7 @@ Buffs diversos (não dano)
 	
 Buffs de dano
 -------------
-	Elesis[1]: 2MP (Arco Fatal Nv1) com dano extremamente baixo.
+	Elesis[1]: 2MP (Arco Fatal Nv1).
 
 FASE 3
 ======
