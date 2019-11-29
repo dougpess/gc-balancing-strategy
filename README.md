@@ -70,6 +70,8 @@ Nerfs em jogadas de Spamming
 Nerfs diversos (não dano)
 -------------------------
 	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos.
+	Arme[1]: Redução de dano em Petrificar Nv1.
+	Arme[1]: Redução de dano em Petrificar Nv2.
 	Ronan[3]: 2MP (Defesa Mágica) [atualmente: escudo de 6 hits por 25 segundos].
 	Lass[1]: Traps.
 	Veigas: Adicionar counter no penultimo hit ou diminuir dano em Frenesi das Trevas.
