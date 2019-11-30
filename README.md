@@ -76,6 +76,7 @@ Nerfs diversos (não dano)
 	Lass[1]: Traps.
 	Veigas: Adicionar counter no penultimo hit ou diminuir dano em Frenesi das Trevas.
 	Veigas: Aumentar hitstun do personagem.
+	Dio: Adicionar knockdown em Cima ZZ.
 
 FASE 2
 ======
