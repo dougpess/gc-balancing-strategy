@@ -69,10 +69,10 @@ Nerfs em jogadas de Spamming
 
 Nerfs diversos (não dano)
 -------------------------
-	Arme[1]: 1MP (Drenagem) hitbox e mp rec abusivos.
+	Arme[1]: Redução de hitbox e recuperação de MP em 1MP (Drenagem).
 	Arme[1]: Redução de dano em 1MP (Petrificar Nv1).
 	Arme[1]: Redução de dano em 1MP (Petrificar Nv2).
-	Ronan[3]: 2MP (Defesa Mágica) [atualmente: escudo de 6 hits por 25 segundos].
+	Ronan[3]: Redução para 20 segundos em 2MP (Defesa Mágica) [atualmente: 25 segundos].
 	Lass[1]: Traps.
 	Veigas: Adicionar counter no penultimo hit ou diminuir dano em Frenesi das Trevas.
 	Veigas: Aumentar hitstun do personagem.
@@ -87,7 +87,7 @@ Buffs diversos (não dano)
 	Elesis[1]: Adicionar Stun aéreo no primeiro hit de Onda Flamejante Nv1.
 	Elesis[2]: Adicionar Stun aéreo em 2MP.
 	Elesis[3]: Adicionar hiperarmadura em Baixo Z durante o pulo.
-	Elesis[3]: Adicionar efeito knock up em 2MP.
+	Elesis[3]: Adicionar knock up em 2MP.
 	
 Buffs de dano
 -------------
@@ -98,4 +98,4 @@ FASE 3
 
 Revamp de personagens
 ---------------------
-	Elesis: Adicionar o talento Provocar a todas as classes.
+	Elesis: Adicionar o talento Provocar em todas as classes.
