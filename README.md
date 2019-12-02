@@ -14,7 +14,7 @@ Roteiro
 	- Buffs de dano<br />
 
 <b>Fase 3</b><br />
-	- Retrabalho de personagens<br />
+	- Revamp de personagens<br />
 
 <br />
 
