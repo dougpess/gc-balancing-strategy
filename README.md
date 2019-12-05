@@ -56,6 +56,7 @@ Trocar imunidade por hiper armadura em técnicas ofensivas
 	Holy: imunidade em Ataque na Corrida usando Aura de Ataque.
 	Azin: imunidade em ZXZZ durante a Corrida.
 	Jin[4]: imunidade em Garça Ascendente.
+	Lin[trevas]: imunidade em Trás durante o Combo.
 	
 Nerfs em jogadas de Spamming
 ----------------------------
